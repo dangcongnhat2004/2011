@@ -1,0 +1,8 @@
+{
+  "name": "Nix 20/11 — Tri Ân & Thực Đơn",
+  "description": "Thiệp chúc mừng ngày Nhà giáo Việt Nam 20/11 gửi tặng tập thể giáo viên Nix cùng thực đơn Katinat và hệ thống lưu đơn hàng ra file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
